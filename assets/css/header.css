@@ -56,6 +56,15 @@ li {
 .header-list a:hover{
     background-color:rgba(255,255,255,0.3);
 }
+/* Tambahkan CSS untuk menu-icon */
+.menu-icon {
+    color: white;
+    float: right;
+    font-size: 25px;
+    padding: 25px 0px;
+    display:none !important;
+    
+  }
 /* --------------------------footer----------------------------- */
 footer{
     font-family: Viga;
