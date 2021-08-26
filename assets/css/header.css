@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+}
+
 body {
     font-family: "Avenir Next";
   }
@@ -51,3 +55,52 @@ li{
     background-image:url(../img/9.png);
     background-size:cover;   
 }
+
+/* css content no 10 */
+
+.content-wrapper{
+    max-width: 1920px;
+}
+
+.clear{
+    clear: left
+}
+
+.content{
+    width: 20%;
+    margin: 0px 0px;
+    float: left;
+}
+
+.content-icon{
+    width: 100%;
+}
+
+.content-icon img{
+    width: 100%;
+}
+
+.content p{
+    margin-top: 10px;
+    text-align: center;
+    font-family: "Avenir Next";
+}
+
+.content-title{
+    font-weight: bold;
+    font-size: 25px; 
+}
+
+.content-list{
+    font-size: 17px; 
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-bottom: 8px;
+}
+
+.container{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+/* end of css content no 10 */
