@@ -64,12 +64,14 @@ li{
   font-size:45px;
   letter-spacing:5px;
   margin-bottom:10px;
+  margin-left:20px;
   color:black;
 }
 
 .top-wrapper p{
   color:black;
   margin-bottom: 3px;
+  margin-left:20px;
 }
 
 /* css content no 10 */
