@@ -50,6 +50,7 @@ li{
 
 /*CSS untuk no 9*/
 .top-wrapper{
+    opacity:0.8;
     padding-top:180px;
     padding-bottom:500px;
     color:white;
@@ -58,10 +59,10 @@ li{
 }
 
 .container h1{
-  opacity:0.8;
   font-size:45px;
   letter-spacing:5px;
   margin-bottom:10px;
+  color:black;
 }
 }
 
