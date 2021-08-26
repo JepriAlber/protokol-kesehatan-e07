@@ -72,11 +72,14 @@ li {
     text-align:left;
 }
 
+.container {
+  margin-left:80px;
+}
+
 .container h1{
   font-size:50px;
   letter-spacing:4px;
   margin-bottom:10px;
-  margin-left:20px;
   color:black;
 }
 
@@ -84,7 +87,6 @@ li {
   font-size:25px;
   color:black;
   margin-bottom: 3px;
-  margin-left:20px;
 }
 
 /* css content no 10 */
