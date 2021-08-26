@@ -72,15 +72,11 @@ li {
     text-align:left;
 }
 
-.container {
-  margin-left:80px;
-}
-
 .container h1{
-  font-size:50px;
-  letter-spacing:4px;
-  margin-bottom:10px;
-  color:black;
+    font-size:50px;
+    letter-spacing:4px;
+    margin-bottom:10px;
+    color:black;
 }
 
 .top-wrapper p{
