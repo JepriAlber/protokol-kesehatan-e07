@@ -57,7 +57,7 @@ li{
     background-image:url(../img/top-wrapper2.png);
     background-size:cover;   
     background-position: center;
-    text-align:center;
+    text-align:left;
 }
 
 .container h1{
@@ -65,6 +65,11 @@ li{
   letter-spacing:5px;
   margin-bottom:10px;
   color:black;
+}
+
+.top-wrapper p{
+  color:black;
+  margin-bottom: 3px;
 }
 
 /* css content no 10 */
