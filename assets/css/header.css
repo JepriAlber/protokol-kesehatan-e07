@@ -51,11 +51,11 @@ li{
 /*CSS untuk no 9*/
 .top-wrapper{
     opacity:0.8;
-    padding-top:180px;
-    padding-bottom:500px;
+    padding:180px 0 180px 0;
     color:white;
     background-image:url(../img/9.png);
     background-size:cover;   
+    text-align:center;
 }
 
 .container h1{
@@ -63,7 +63,6 @@ li{
   letter-spacing:5px;
   margin-bottom:10px;
   color:black;
-  text-align:center;
 }
 }
 
