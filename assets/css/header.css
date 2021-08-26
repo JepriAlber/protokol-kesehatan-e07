@@ -47,13 +47,22 @@ li{
     list-style:none;
     padding-bottom:20px;
 }
-/*CSS untuk top-wrapper*/
+
+/*CSS untuk no 9*/
 .top-wrapper{
     padding-top:180px;
-    padding-bottom:100px;
+    padding-bottom:500px;
     color:white;
     background-image:url(../img/9.png);
     background-size:cover;   
+}
+
+.container h1{
+  opacity:0.8;
+  font-size:45px;
+  letter-spacing:5px;
+  margin-bottom:10px;
+}
 }
 
 /* css content no 10 */
