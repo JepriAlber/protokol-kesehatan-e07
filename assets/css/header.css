@@ -8,7 +8,7 @@ a {
 }
 
 body {
-    font-family: "Avenir Next";
+    font-family: "Times New Roman", Times, serif;
 }
   
 li {
@@ -23,6 +23,7 @@ li {
 
 /* -------------------header------------------------ */
 .header {
+    font-family: Viga;
     background-color: #3f5a8f;
     color: #fff;
     width:100%;
@@ -57,7 +58,8 @@ li {
 }
 /* --------------------------footer----------------------------- */
 footer{
-    height:120px;
+    font-family: Viga;
+    height:130px;
     background-color:#3F5A8F;
 }
 footer h1{
@@ -80,6 +82,7 @@ footer h1{
 
 /*CSS untuk no 9*/
 .top-wrapper{
+    font-family: Viga;
     margin-top: 100px;
     margin-bottom: 50px;
     padding-top:200px;
@@ -138,6 +141,7 @@ footer h1{
 }
 
 .heading h2{
+    font-family: Viga;
     text-align:center !important;
 }
 
@@ -163,10 +167,10 @@ footer h1{
 .content p{
     color:rgb(56, 53, 51);
     text-align: center;
-    font-family: "Avenir Next";
 }
 
 .content-title{
+    font-family: Viga;
     letter-spacing: 2px;
     margin-top: 20px;
     font-weight: bold;
@@ -174,6 +178,7 @@ footer h1{
 }
 
 .content-list{
+    font-family: Viga;
     margin-top: 1px;
     font-size: 17px; 
     font-weight: bold;
