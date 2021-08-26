@@ -46,6 +46,9 @@
     .content-wrapper-tentang{
         margin-top: 50px;
     }
+    .content-wrapper-tentang p{
+        text-indent: 3em;
+    }
     .heading{
         padding-top: 30px;
         padding-bottom: 18px;
@@ -72,6 +75,7 @@
         font-size: 15px; 
     }
     .content-main{
+        text-indent: 2em;
         font-size: 12px; 
     }
 }

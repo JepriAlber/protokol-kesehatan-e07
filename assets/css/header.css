@@ -130,12 +130,12 @@ footer h1{
 .content-wrapper-tentang{
     margin-top: 80px;
     padding:25px 25px;
-    text-indent: 5em;
 }
 .content-wrapper-tentang p{
     text-align: justify;
     margin-bottom: 10px;
     font-size: 15px;
+    text-indent: 5em;
 }
 /* css content no 10 */
 .content-wrapper{
@@ -195,6 +195,7 @@ footer h1{
     margin-bottom: 8px;
 }
 .content-main{
+    text-indent: 2em;
     text-align: justify !important;
     margin-top: 1px;
     font-size: 14px; 
